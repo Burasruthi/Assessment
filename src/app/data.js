@@ -2,7 +2,7 @@ const data=[
   {
     "id": 1,
     "name": "Hedamo Organic Honey",
-    "image": "/images/honey.jpg",
+    "image": "https://pureandsure.in/cdn/shop/files/Honey-f.jpg?v=1728897280&width=1920",
     "category": "Food",
     "description": "Pure wild honey harvested from organic farms.",
     "features": ["Unprocessed", "Nutrient-rich", "Eco-friendly"],
@@ -26,7 +26,7 @@ const data=[
   {
     "id": 2,
     "name": "Bamboo Toothbrush",
-    "image": "/images/brush.webp",
+    "image": "https://freshmills.in/cdn/shop/files/bamboo-toothbrush-589621.jpg?v=1717361593&width=1214",
     "category": "Personal Care",
     "description": "Eco-friendly bamboo toothbrush with soft bristles.",
     "features": ["Biodegradable handle", "Bristles", "Sustainable product"],
@@ -50,7 +50,7 @@ const data=[
   {
     "id": 3,
     "name": "SolarMate Portable Charger",
-    "image": "/images/charger.avif",
+    "image": "https://pics.runbazaar.com/AllusbVJPcimzT6YTqN4Zo6LThBVoeqhEfGjc6LOJkc/t:0.1:ffffff:1:1/g:sm/rs:fit:750:750:1:1/bG9jYWw6Ly8vbWVkaWEvcHJvZHVjdF9pbWcvMjAyNS8wMS8yMy9SQklpSmZRby8xMDguanBn",
     "category": "Electronics",
     "description": "Recharge your devices using solar energy, anywhere anytime.",
     "features": ["Fast charging", "Water-resistant", "Lightweight design"],
@@ -74,7 +74,7 @@ const data=[
   {
     "id": 4,
     "name": "FreshFarm Organic Almonds",
-    "image": "/images/almonds.webp",
+    "image": "https://farmfreshbangalore.com/cdn/shop/products/8AsTNuc.jpg?v=1651735137&width=533",
     "category": "Food",
     "description": "Premium quality organic almonds rich in protein and healthy fats.",
     "features": ["Protein-rich", "100% natural", "No preservatives"],
@@ -98,7 +98,7 @@ const data=[
   {
     "id": 5,
     "name": "EcoSip Stainless Steel Bottle",
-    "image": "/images/bottle.webp",
+    "image": "https://m.media-amazon.com/images/I/51d+i0sI-aL.jpg",
     "category": "Lifestyle",
     "description": "Durable stainless steel water bottle that keeps drinks hot or cold.",
     "features": ["Leak-proof", "Double-wall insulation", "Reusable"],
@@ -122,7 +122,7 @@ const data=[
   {
     "id": 6,
     "name": "PureGlow Handmade Soap",
-    "image": "/images/soap.jpeg",
+    "image": "https://www.jiomart.com/images/product/original/rvnfcwofrt/katna-pureglow-aloe-vera-herbal-soap-set-with-natural-handmade-paper-bathroom-base-dispenser-case-paraben-sls-free-luxurious-antioxidant-skincare-product-images-orvnfcwofrt-p612012316-2-202507221933.jpg?im=Resize=(420,420)",
     "category": "Personal Care",
     "description": "Gentle handmade soap infused with essential oils.",
     "features": ["Chemical-free", "Moisturizing", "Vegan"],
