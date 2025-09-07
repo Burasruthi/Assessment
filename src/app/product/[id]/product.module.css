@@ -1,0 +1,185 @@
+
+.head h1{
+    text-align: center;
+    padding-top: 30px;
+}
+.product{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    margin-top: 34px;
+}
+.product img{
+    height: 400px;
+    width: 450px;
+    margin-left: -100px;
+}
+.topRight h2{
+    padding-top: 20px;
+    margin-left: -10px;
+}
+.content{
+    width: 500px;
+}
+.right{
+    display: flex;
+    gap: 40px;
+    margin: 40px;
+}
+.right .cards{
+    height: 180px;
+    width: 200px;
+    border: 2px solid rgb(185, 178, 178);
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px 3px rgb(208, 200, 200);
+
+}
+.desc{
+    display: none;
+}
+.cards h4{
+    text-align: center;
+    padding-top: 20px;
+}
+.cards ul{
+    text-align: center;
+    padding: 20px;   
+}
+
+.cards li{
+   list-style: none;
+   font-size: 14px;
+   padding: 3px;
+}
+.down{
+    display: flex;
+    gap: 30px;
+    margin: 40px;
+    
+}
+.down .cards{
+     height: 250px;
+    width: 260px;
+    border: 2px solid rgb(185, 178, 178);
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px 3px rgb(208, 200, 200);
+}
+.cards h1{
+    font-size: 15px;
+    text-align: center;
+    padding-top: 20px;
+}
+.cards h2{
+    font-size: 16px;
+    
+}
+.down .cards li{
+    padding-top: 10px;
+}
+.cards h3{
+    /* padding: 10px; */
+}
+.cards p{
+    font-size: 14px;
+  
+}
+.cardsInner{
+    padding: 20px;
+}
+@media (max-width: 600px) {
+.head h1{
+   display: none;
+}
+.product{
+    flex-direction: column;
+   
+   
+}
+.content{
+    width: 400px;
+    margin-left: 8px;
+}
+
+.product img{
+    height: 90px;
+    width: 100px;
+   margin-left: 2px;
+   margin-bottom: 30px;
+   margin-top: 30px;
+}
+.top{
+    display: flex;
+    border: 2px solid black;
+    margin: 20px 20px;
+    border-radius: 5px;
+    border: 2px solid white;
+    box-shadow: 2px 2px 5px 3px rgb(208, 200, 200);
+   
+}
+.top h2{
+    font-size: 15px;
+    padding-top: 60px;
+
+}
+.desc{
+    display: block;
+}
+.topRight h2{
+    padding-top: 40px;
+    padding-left: 3px;
+}
+.topRight p{
+    padding: 10px;
+    margin-left: -5px;
+    font-size: 15px;
+
+}
+.right{
+    
+    gap: 20px;
+    margin-bottom: 20px;
+}
+.right .cards{
+    height: 190px;
+    width: 160px;
+    border: 2px solid rgb(185, 178, 178);
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px 3px rgb(208, 200, 200);
+
+}
+.down{
+    display: flex;
+    gap: 20px;
+
+}
+.down .cards{
+     height: 250px;
+    width: 160px;
+    border: 2px solid rgb(185, 178, 178);
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px 3px rgb(208, 200, 200);
+}
+.cards h1{
+    font-size: 15px;
+    text-align: center;
+    padding-top: 20px;
+}
+.cards h2{
+    font-size: 16px;
+    
+}
+.down .cards li{
+    padding-top: 10px;
+}
+.cards h3{
+    /* padding: 10px; */
+}
+.cards p{
+    font-size: 14px;
+  
+}
+.cardsInner{
+    padding: 20px;
+}
+}
