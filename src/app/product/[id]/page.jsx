@@ -57,7 +57,7 @@ const page = () => {
         </div>
         <div className={styles.down}>
           <div className={styles.cards}>
-            <h1>Traceability</h1>
+            <h2 style={{textAlign:"center", paddingTop: "20px"}}>Traceability</h2>
             <ul>
                 {Object.entries(product.traceability).map((item, index)=>(
                   <li key={index}>{item}</li>
