@@ -113,6 +113,9 @@
     display: flex;
     border: 2px solid black;
     margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: -10px;
     border-radius: 5px;
     border: 2px solid white;
     box-shadow: 2px 2px 5px 3px rgb(208, 200, 200);
@@ -155,7 +158,7 @@
 
 }
 .down .cards{
-     height: 250px;
+     height: 240px;
     width: 160px;
     border: 2px solid rgb(185, 178, 178);
     border-radius: 5px;
