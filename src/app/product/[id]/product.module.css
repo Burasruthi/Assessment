@@ -98,7 +98,7 @@
 }
 .content{
     width: 400px;
-    margin-left: 8px;
+    margin-left: 0px;
 }
 
 .product img{
@@ -111,7 +111,7 @@
 .top{
     display: flex;
     border: 2px solid black;
-    margin: 20px 20px;
+    margin: 50px 20px;
     border-radius: 5px;
     border: 2px solid white;
     box-shadow: 2px 2px 5px 3px rgb(208, 200, 200);
@@ -127,7 +127,7 @@
 }
 .topRight h2{
     padding-top: 40px;
-    padding-left: 3px;
+    padding-left: 8px;
 }
 .topRight p{
     padding: 10px;

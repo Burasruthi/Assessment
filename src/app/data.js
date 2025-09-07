@@ -122,7 +122,7 @@ const data=[
   {
     "id": 6,
     "name": "PureGlow Handmade Soap",
-    "image": "https://www.jiomart.com/images/product/original/rvnfcwofrt/katna-pureglow-aloe-vera-herbal-soap-set-with-natural-handmade-paper-bathroom-base-dispenser-case-paraben-sls-free-luxurious-antioxidant-skincare-product-images-orvnfcwofrt-p612012316-0-202507221933.jpg?im=Resize=(420,420)",
+    "image": "https://labelleglow.com/cdn/shop/products/CG_044copy_1200x.png?v=1653574748",
     "category": "Personal Care",
     "description": "Gentle handmade soap infused with essential oils.",
     "features": ["Chemical-free", "Moisturizing", "Vegan"],
