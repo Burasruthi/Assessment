@@ -6,7 +6,7 @@ const nextConfig = {
             'pics.runbazaar.com',
             'farmfreshbangalore.com',
             'm.media-amazon.com',
-            'labelleglow.com'
+            'encrypted-tbn0.gstatic.com'
         ]
     }
 };

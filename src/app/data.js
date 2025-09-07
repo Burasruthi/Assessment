@@ -122,7 +122,7 @@ const data=[
   {
     "id": 6,
     "name": "PureGlow Handmade Soap",
-    "image": "https://labelleglow.com/cdn/shop/products/CG_044copy_1200x.png?v=1653574748",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTapHnI7g8w_4KF5EFE49CiZpEv46zE_BMzcW0ObnEo3znc7ujQePSGfkT3cCX27n2cDq0&usqp=CAU",
     "category": "Personal Care",
     "description": "Gentle handmade soap infused with essential oils.",
     "features": ["Chemical-free", "Moisturizing", "Vegan"],
